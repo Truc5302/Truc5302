@@ -1,16 +1,139 @@
 <h1 align="center">Hi 👋, I'm Truc Truong</h1>
-<h3 align="center">I graduated in Software Engineering from FPT University. I have six months of internship experience working with Angular at FPT Software and have also developed several React.js projects during my university studies. I am eager to gain hands-on experience and always willing to learn new technologies as well as broaden my knowledge.</h3>
 
-- 🌱 I’m currently learning **Angular and .NET**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-ttt5302.vercel.app/](https://portfolio-ttt5302.vercel.app/)
-
-- 📫 How to reach me **truc5302@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/truongthuytruc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/truongthuytruc/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+%7C+Angular;Open+to+Work&center=true&width=500&height=45">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<h3 align="center">
+Frontend Developer | Software Engineering Graduate | React & Angular
+</h3>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Graduate in **Software Engineering – FPT University**
+- 💻 6 months internship experience at **FPT Software (Angular Developer)**
+- 🌱 Currently learning **Angular, .NET, and Backend APIs**
+- 👨‍💻 Portfolio:  
+  https://portfolio-ttt5302.vercel.app/
+- 📫 Email: **truc5302@gmail.com**
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/truongthuytruc/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,js,ts,html,css,sass,tailwind,bootstrap,nestjs,dotnet,mysql,git,postman,figma,python" />
+</p>
+
+---
+
+## 💼 Experience
+
+### Frontend Developer Intern – FPT Software (Sep 2023 – Apr 2024)
+
+- Worked on a project for a Japanese client
+- Collected and documented requirements
+- Implemented UI features using **Angular**
+- Integrated frontend with **RESTful APIs**
+- Used **Git** for version control
+
+---
+
+## 💻 Projects
+
+### Tour Request and Implementation System (Graduation Project)
+
+Tech stack:
+- React
+- TypeScript
+- Redux Toolkit
+- Tailwind
+- ASP.NET Core API
+- SQL Server
+
+Features:
+- Role-based system (Customer / Staff / Manager)
+- Tour request management
+- RESTful API integration
+
+GitHub:
+https://github.com/Truc5302/footprints-tour-request-and-implementation-system
+
+---
+
+### Mentor-Mentee Connection Platform
+
+Tech stack:
+- React
+- Tailwind
+- ASP.NET Core
+- SQL Server
+- SignalR
+
+Features:
+- Connect mentors and mentees
+- Skill sharing platform
+- Real-time communication
+
+GitHub:
+https://github.com/RYI-TorTee/TorTee-client
+
+---
+
+### Personal Portfolio Website
+
+Tech stack:
+- React
+- TypeScript
+- Tailwind
+
+Features:
+- Responsive design
+- Project showcase
+
+Live:
+https://portfolio-ttt5302.vercel.app/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Truc5302&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truc5302&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌎 Languages
+
+- English: IELTS 6.0
+
+---
+
+## ✨ Soft Skills
+
+- Teamwork  
+- Communication  
+- Problem Solving  
+
+---
+
+## 🎯 Career Goal
+
+To become a professional **Frontend Developer**, improve system design knowledge, and build scalable web applications.
