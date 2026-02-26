@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Truc Truong</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+%7C+Angular;Open+to+Work&center=true&width=500&height=45">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Frontend%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Angular+Developer;Frontend+Enthusiast;Always+Learning+New+Technologies&center=true&width=600&height=45&color=ff69b4">
+</p>
+
+---
+
 <h3 align="center">
-Frontend Developer | Software Engineering Graduate | React & Angular
+I graduated in Software Engineering from FPT University. I have six months of internship experience working with Angular at FPT Software and have also developed several React.js projects during my university studies. I am eager to gain hands-on experience and always willing to learn new technologies as well as broaden my knowledge.
 </h3>
 
 ---
@@ -48,6 +54,14 @@ Frontend Developer | Software Engineering Graduate | React & Angular
 - Implemented UI features using **Angular**
 - Integrated frontend with **RESTful APIs**
 - Used **Git** for version control
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Truc5302&theme=radical" />
+</p>
 
 ---
 
@@ -108,17 +122,7 @@ https://portfolio-ttt5302.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Truc5302&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truc5302&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌎 Languages
 
@@ -137,3 +141,16 @@ https://portfolio-ttt5302.vercel.app/
 ## 🎯 Career Goal
 
 To become a professional **Frontend Developer**, improve system design knowledge, and build scalable web applications.
+---
+
+## 🧠 Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=120&section=footer"/>
+</p>
