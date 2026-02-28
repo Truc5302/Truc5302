@@ -20,7 +20,7 @@ I graduated in Software Engineering from FPT University. I have six months of in
 
 - 🎓 Graduate in **Software Engineering – FPT University**
 - 💻 6 months internship experience at **FPT Software (Angular Developer)**
-- 🌱 Currently learning **Angular, .NET, and Backend APIs**
+- 🌱 Currently learning **Angular, ASP.NET Core.
 - 👨‍💻 Portfolio:  
   https://portfolio-ttt5302.vercel.app/
 - 📫 Email: **truc5302@gmail.com**
@@ -77,7 +77,7 @@ Tech stack:
 - ASP.NET Core API
 - SQL Server
 
-Features:
+Responsibilities:
 - Role-based system (Customer / Staff / Manager)
 - Tour request management
 - RESTful API integration
@@ -96,7 +96,7 @@ Tech stack:
 - SQL Server
 - SignalR
 
-Features:
+Responsibilities:
 - Connect mentors and mentees
 - Skill sharing platform
 - Real-time communication
@@ -113,7 +113,7 @@ Tech stack:
 - TypeScript
 - Tailwind
 
-Features:
+Responsibilities:
 - Responsive design
 - Project showcase
 
