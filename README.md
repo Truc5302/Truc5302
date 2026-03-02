@@ -11,7 +11,7 @@
 ---
 
 <h3 align="center">
-I graduated in Software Engineering from FPT University. I have six months of internship experience working with Angular at FPT Software and have also developed several React.js projects during my university studies. I am eager to gain hands-on experience and always willing to learn new technologies as well as broaden my knowledge.
+I graduated in Software Engineering from FPT University and have six months of internship experience working with Angular at FPT Software. I have also developed several React.js projects during my studies. I am a responsible and dedicated person, always committed to my work, eager to learn new technologies, and motivated to grow professionally in the future.
 </h3>
 
 ---
